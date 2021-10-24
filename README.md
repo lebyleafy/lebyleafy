@@ -10,5 +10,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=lebyleafy&show_icons=true)
-">
+<img src="https://github-readme-stats.vercel.app/api?username=lebyleafy&show_icons=true">
