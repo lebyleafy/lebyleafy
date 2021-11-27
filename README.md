@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Web/Software Development
-- ⚡ Quote: Full time coder, part time retard
+- ⚡ Quote: Full time coder, part time retarded
 
 <img src="https://github-readme-stats.vercel.app/api?username=lebyleafy&show_icons=true">
 
