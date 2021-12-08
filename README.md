@@ -1,7 +1,7 @@
 ### My stats
 
 
-- 🌱 I’m currently learning Web/Software Development
+- 🌱 I’m currently learning Game/Software Development
 - ⚡ Quote: Full time coder, part time retarded
 
 <img src="https://github-readme-stats.vercel.app/api?username=lebyleafy&show_icons=true">
