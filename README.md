@@ -5,10 +5,10 @@
 - ⚡ Quote: Full time coder, part time retarded
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lebyleafy&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lebyleafy&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lebyleafy&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebyleafy&langs_count=8" />
 </a>
 
 
