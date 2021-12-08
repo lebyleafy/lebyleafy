@@ -5,7 +5,7 @@
 - ⚡ Quote: Full time coder, part time retarded
 
   <img src="https://github-readme-stats.vercel.app/api?username=lebyleafy&theme=dark&show_icons=true">
-<hr>
+<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebyleafy&theme=dark&layout=compact&langs_count=6">
 
 
