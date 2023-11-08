@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning Game/Software Development
-- ⚡ Quote: Full time coder, part time retarded
+- ⚡ Quote: part time coder, full time retarded
 
 <hr>
 
