@@ -1,8 +1,8 @@
 ### My stats
 
 
-- 🌱 I’m currently learning Game/Software Development
-- ⚡ Quote: part time coder, full time retarded
+
+
 
 <hr>
 
